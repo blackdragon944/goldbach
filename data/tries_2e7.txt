@@ -1,0 +1,3 @@
+tries X 20000000 B 1000 hard 69601 nofound 0
+mean_tries asc 3.2560 div 2.2295 bin 1.0000
+astar_divides_n 7701 expected_sum_1_over_a 10629.9 shuffled 7770
