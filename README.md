@@ -6,7 +6,7 @@ For the definitions, statements and results see the note; this repository contai
 programs, tests, analysis scripts and small data files.
 
 ```sh
-git clone https://github.com/blackdragon944/goldbach.git
+git clone https://github.com/mykhailo-melnyk-944/goldbach.git
 cd goldbach
 ```
 
